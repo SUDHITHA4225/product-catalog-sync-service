@@ -230,6 +230,15 @@ npm test
 ```
 
 ---
+## API Screenshots
+
+- Health Check
+- Get Products (Paginated)
+- Filter Products by Name
+- Get Product by ID (Version 1)
+- Get Product by ID (Updated Version)
+
+
 
 ## Logging
 
